@@ -1,0 +1,122 @@
+1) Numerical Variable:
+=====================
+    Definition:   A numerical variable, also known as a quantitative variable, represents data that can 
+    be measured and expressed as numbers.
+    Types:  
+      1.1) Discrete Variables: 
+      =======================
+        Definition:   These are countable variables that have distinct, separate values.
+        Example:   The number of siblings someone has (e.g., 1, 2, 3).
+      1.2) Continuous Variables:
+      =========================
+        Definition:   These variables can take any value within a range, including fractions and decimals.
+        Example:   Height (e.g., 170 cm, 170.5 cm, 170.55 cm).
+
+      2) Categorical Variables: 
+      =========================
+    Definition:   Variables that represent data divided into groups or categories.
+    Example:   Favorite fruit (e.g., Apple, Banana, Orange).
+
+      3) Ordinal Variables: 
+      =======================
+    Definition:   A type of categorical variable where the categories have a meaningful order or ranking, 
+    but the differences between them aren’t necessarily consistent.
+    Example:   Education level (e.g., High School, Bachelor's, Master's, PhD).
+
+      4) Interval Variables:
+      ======================
+    Definition:   Numerical variables where the intervals between values are meaningful and consistent, 
+    but there is no true zero point.
+    Example:   Temperature in Celsius or Fahrenheit (e.g., 0°C does not mean the absence of temperature).
+
+      5) Ratio Variables: 
+      ===================
+    Definition:   Numerical variables that have a meaningful zero point, meaning zero represents the absence 
+    of the variable, and both the intervals and ratios between values are meaningful.
+    Example:   Weight (e.g., 0 kg means no weight).
+
+      6) Dichotomous Variables:
+      ========================
+    Definition:   Categorical variables that have only two possible outcomes.
+    Example:   Yes/No responses (e.g., diabetic or not).
+
+      Statistics: 
+      ===========
+    Definition:   The science of collecting, analyzing, presenting, and interpreting data.
+    Types:  
+      1) Descriptive Statistics:
+      ==========================
+      
+        Definition:
+	Statistics that summarize and describe the features of a dataset.
+        Types:  
+          1.1) Measures of Central Tendency:  
+	  ==================================
+            Definition:
+	    Values that describe the center of a dataset.
+            Examples:   Mean, Median, Mode.
+	    Deviation: 
+	    =========
+	    Mean Deviation:
+	    ===============
+	    Covarient of Coefficient:
+	    ==========================
+          1.2) Measures of Dispersion: 
+	  ==========================
+            Definition:   Values that describe the spread of the data.
+            Examples:   Standard Deviation, Variance, Range.
+          1.3) Measures of Position:  
+	  ==========================
+            Definition:   Values that describe the relative position of data points in a dataset.
+            Examples:   Percentiles, Quartiles.
+          1.4) Other Measures:  
+	  ====================
+            Examples:   Frequency Distribution, Skewness (measure of asymmetry), Kurtosis (measure of the 
+	    peakedness of a distribution), Normal Distribution, Poisson Distribution, Binomial Distribution.
+      2) Inferential Statistics: 
+      ==========================
+        Definition:   Statistics that make inferences and predictions about a population based on a sample 
+	of data.
+        Types:  
+          2.1) Estimation: 
+	  ================
+            Definition:   The process of inferring the value of a population parameter based on a sample 
+	    statistic.
+            Examples:   Point estimation, Interval estimation.
+          2.2) Hypothesis Testing:  
+	  ========================
+            Definition:   A method used to decide whether there is enough evidence to reject a null hypothesis 
+	    in favor of an alternative hypothesis.
+            Examples:   P value, Significance Level, Statistical Tests.
+          2.3) Regression:  
+	  =================
+            Definition:   A statistical method used to examine the relationship between two or more variables.
+            Examples:   Simple Regression, Multiple Regression.
+          2.4) Correlation:
+	  =================
+            Definition:   A measure of the strength and direction of the relationship between two variables.
+            Examples:   Pearson Correlation, Spearman Rank Correlation.
+          2.5) ANOVA (Analysis of Variance) & Chi Square:
+	  ===============================================
+            Definition:   Statistical tests used to compare means across multiple groups (ANOVA) or to examine 
+	    relationships between categorical variables (Chi Square).
+
+      Mean:  
+      =======
+    Definition:   The average of a set of numbers.
+    Types:  
+      1) Arithmetic Mean:   The sum of all values divided by the number of values.
+			    = AM = (sum of quantaties) / (Number of quantaties)
+			    
+      2) Geometric Mean:    The nth root of the product of n values, often used for growth rates.
+      3) Harmonic Mean:     The reciprocal of the arithmetic mean of the reciprocals of the values, useful for 
+                            rates.
+			    = (Number of quantaties) / (1/a1 + 1/a2  + 1/an...)
+      4) Weighted Mean:     The mean where some values contribute more than others according to their assigned 
+                            weights.
+			    
+
+
+
+
+
